@@ -18,7 +18,7 @@ uniApp+uview
 #### 特别说明
 再次开源请注明出处！！！ 再次开源请注明出处！！！ 
 有用请给个starred
-UI设计参考了我自己写了前后端分离的[](https://gitee.com/he_qun/resume-miniprogram)
+UI设计参考了我自己写了前后端分离的[https://gitee.com/he_qun/resume-miniprogram]()
 
 
 
