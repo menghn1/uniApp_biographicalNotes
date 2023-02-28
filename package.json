@@ -1,0 +1,15 @@
+{
+    "id": "hqs-popup",
+    "name": "hqs-popup弹窗组件，支持手势滑动关闭",
+    "version": "1.3.2",
+    "description": "基于uni-popup实现，增加了手势滑动关闭弹窗功能，体验和抖音评论下滑关闭类似",
+    "keywords": [
+        "仿抖音评论弹窗",
+        "自带scrollview支持列表内容",
+        "求好评~"
+    ],
+    "dependencies": {
+        "animate.css": "^4.1.1",
+        "moment": "^2.29.3"
+    }
+}

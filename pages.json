@@ -1,0 +1,71 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	{
+		"path": "pages/index/index",
+		"style": {
+			"navigationStyle": "custom" //禁用uni-app默认的头部导航
+		}
+	},
+		{
+			"path": "pages/visit/visit",//你好陌生人
+			"style": {
+				"navigationStyle": "custom" //禁用uni-app默认的头部导航
+			}
+		
+		},
+		{
+			"path": "pages/work/work", //职业技能
+			"style": {
+				"navigationStyle": "custom" //禁用uni-app默认的头部导航
+			}
+
+		},
+
+
+		{
+			"path": "pages/project/project", //项目经验
+			"style": {
+				"navigationStyle": "custom" //禁用uni-app默认的头部导航
+			}
+
+		},
+		{
+			"path": "pages/professional/professional", //工作经历
+			"style": {
+				"navigationStyle": "custom" //禁用uni-app默认的头部导航
+			}
+		},
+
+
+
+
+
+		{
+			"path": "pages/resume/resume", //个人简历
+			"style": {
+				"navigationStyle": "custom" //禁用uni-app默认的头部导航
+			}
+
+		}
+
+		
+	    
+        ,{
+            "path" : "pages/details/details",
+            "style" :                                                                                    
+            {
+				"navigationStyle": "custom" //禁用uni-app默认的头部导航
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
