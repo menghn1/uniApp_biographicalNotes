@@ -14,7 +14,9 @@ uniApp+uview
 2.  HBuilder X运行
 
 
-关于后台管理还没有整理好，过几天再开源
+### 后台
+3.  后台开源仓库地址[[https://gitee.com/he_qun/resume-miniprogram](https://github.com/asd964502906/Resume-of-admin)]
+
 
 
 
